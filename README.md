@@ -1,4 +1,4 @@
-### Hi there 👋
+### Меня зовут Тараканов Дмитрий и я начинающий Data Scientist 👋
 
 <!--
 **madisdead/madisdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
